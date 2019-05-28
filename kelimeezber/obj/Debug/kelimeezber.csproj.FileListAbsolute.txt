@@ -1,0 +1,37 @@
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\bin\Debug\kelimeezber.exe.config
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\bin\Debug\kelimeezber.exe
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\bin\Debug\kelimeezber.pdb
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.Properties.Resources.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.exe
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.pdb
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.csproj.CopyComplete
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.Kullanıcıgirisi.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.AnasayfaForm.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.KelimeEklemeForm.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.KelimeEzberleForm.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.KelimeSorForm.resources
+C:\Users\asus\source\repos\kelimeezber\kelimeezber\obj\Debug\kelimeezber.İstatistikler.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\bin\Debug\kelimeezber.exe.config
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\bin\Debug\kelimeezber.exe
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\bin\Debug\kelimeezber.pdb
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.AnasayfaForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.KelimeEklemeForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.KelimeEzberleForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.KelimeSorForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.Properties.Resources.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.csproj.CopyComplete
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.exe
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.pdb
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.KullanıcıGirisiForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.IstatistiklerForm.resources
+C:\Users\asus\Desktop\KELİME EZBER\kelimeezber\obj\Debug\kelimeezber.YapilacaklarForm.resources

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sozlukModelStoreContainer" CdmEntityContainer="sozlukEntities">
+    <EntitySetMapping Name="sozluktb">
+      <EntityTypeMapping TypeName="sozlukModel.sozluktb">
+        <MappingFragment StoreEntitySet="sozluktb">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="turkce" ColumnName="turkce" />
+          <ScalarProperty Name="ingilizce" ColumnName="ingilizce" />
+          <ScalarProperty Name="kelimeTuru" ColumnName="kelimeTuru" />
+          <ScalarProperty Name="kullaniciyaSorulmaTarihi" ColumnName="kullaniciyaSorulmaTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
